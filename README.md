@@ -40,3 +40,7 @@ msg >> 'Enter text'
 return output_aws_polly.mp3 file
 ```
 
+
+## 5. Available Voices
+If you want to change the language, change the name_id variable in [example.py](https://github.com/yonghankim/aws-polly/blob/master/example.py).
+- [`Voice List`](https://docs.aws.amazon.com/polly/latest/dg/voicelist.html)
